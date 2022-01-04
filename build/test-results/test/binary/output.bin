@@ -1,0 +1,236 @@
+4---------------------------------------------------
++Id:2300 Name:Universidade Vale do Rio Doce
+	 Domain: www.univale.br
+Clean domain: univale.br
+ 	 Pure domain: 	FAIL univale.br
+$	 www.:        	FAIL www.univale.br
+#	 https://	FAIL https://univale.br
++	 https://www.	FAIL https://www.univale.br
+!	 http://	FAIL http://univale.br
+)	 http://www.	FAIL http://www.univale.br
+4---------------------------------------------------
+4---------------------------------------------------
++Id:2301 Name:Faculdade de Guanhães - Alfa
+	 Domain: 
+Null domain
+4---------------------------------------------------
+*Id:2302 Name:Fundacao Educacional Guaxupe
+	 Domain: null
+Null domain
+4---------------------------------------------------
+FId:2303 Name:Centro Universitário da Fundação Educacional Guaxupé
+	 Domain: www.unifeg.edu.br
+Clean domain: unifeg.edu.br
+#	 Pure domain: 	FAIL unifeg.edu.br
+'	 www.:        	FAIL www.unifeg.edu.br
+&	 https://	FAIL https://unifeg.edu.br
+.	 https://www.	FAIL https://www.unifeg.edu.br
+$	 http://	FAIL http://unifeg.edu.br
+,	 http://www.	FAIL http://www.unifeg.edu.br
+4---------------------------------------------------
+4---------------------------------------------------
+8Id:2304 Name:Fundacao Educacional Vale do Sao Francisco
+	 Domain: null
+Null domain
+4---------------------------------------------------
+.Id:2305 Name:Escola Superior em Meio Ambiente
+	 Domain: www.fevasf.edu.br
+Clean domain: fevasf.edu.br
+#	 Pure domain: 	FAIL fevasf.edu.br
+'	 www.:        	FAIL www.fevasf.edu.br
+&	 https://	PASS https://fevasf.edu.br
+.	 https://www.	PASS https://www.fevasf.edu.br
+$	 http://	PASS http://fevasf.edu.br
+,	 http://www.	PASS http://www.fevasf.edu.br
+4---------------------------------------------------
+4---------------------------------------------------
+9Id:2306 Name:Centro Superior de Estudos de Manhuacu Ltda
+	 Domain: null
+Null domain
+	4---------------------------------------------------
+	,Id:2307 Name:Centro Universitário Unifacig
+		 Domain: www.unifacig.edu.br
+	Clean domain: unifacig.edu.br
+	%	 Pure domain: 	FAIL unifacig.edu.br
+	)	 www.:        	FAIL www.unifacig.edu.br
+	(	 https://	PASS https://unifacig.edu.br
+	0	 https://www.	PASS https://www.unifacig.edu.br
+	&	 http://	PASS http://unifacig.edu.br
+	.	 http://www.	PASS http://www.unifacig.edu.br
+	4---------------------------------------------------
+
+4---------------------------------------------------
+
+4Id:2308 Name:Sistema Alfa Universitario Ltda - Alfa
+
+	 Domain: null
+
+Null domain
+4---------------------------------------------------
+.Id:2309 Name:Faculdade de Direito de Ipatinga
+	 Domain: www.fadipa.br
+Clean domain: fadipa.br
+	 Pure domain: 	FAIL fadipa.br
+#	 www.:        	FAIL www.fadipa.br
+"	 https://	PASS https://fadipa.br
+*	 https://www.	PASS https://www.fadipa.br
+ 	 http://	PASS http://fadipa.br
+(	 http://www.	PASS http://www.fadipa.br
+4---------------------------------------------------
+4---------------------------------------------------
+BId:2310 Name:Ibra - Instituto Brasil de Ensino e Consultoria Ltda
+	 Domain: null
+Null domain
+4---------------------------------------------------
+3Id:2311 Name: Faculdade Instituto Brasil de Ensino
+#	 Domain: www.faculdadeibra.edu.br
+#Clean domain: faculdadeibra.edu.br
+*	 Pure domain: 	FAIL faculdadeibra.edu.br
+.	 www.:        	FAIL www.faculdadeibra.edu.br
+-	 https://	FAIL https://faculdadeibra.edu.br
+5	 https://www.	FAIL https://www.faculdadeibra.edu.br
++	 http://	FAIL http://faculdadeibra.edu.br
+3	 http://www.	FAIL http://www.faculdadeibra.edu.br
+4---------------------------------------------------
+4---------------------------------------------------
++Id:2312 Name:Faculdade Kennedy de Ipatinga
+	 Domain: www.kennedy.br
+Clean domain: kennedy.br
+ 	 Pure domain: 	FAIL kennedy.br
+$	 www.:        	FAIL www.kennedy.br
+#	 https://	FAIL https://kennedy.br
++	 https://www.	FAIL https://www.kennedy.br
+!	 http://	PASS http://kennedy.br
+)	 http://www.	PASS http://www.kennedy.br
+4---------------------------------------------------
+4---------------------------------------------------
+.Id:2313 Name:Faculdade Pitágoras de Ipatinga
+	 Domain: www.pitagoras.com.br
+Clean domain: pitagoras.com.br
+&	 Pure domain: 	FAIL pitagoras.com.br
+*	 www.:        	FAIL www.pitagoras.com.br
+)	 https://	FAIL https://pitagoras.com.br
+1	 https://www.	PASS https://www.pitagoras.com.br
+'	 http://	PASS http://pitagoras.com.br
+/	 http://www.	PASS http://www.pitagoras.com.br
+4---------------------------------------------------
+4---------------------------------------------------
+7Id:2314 Name:Fundacao Educacional Sao Francisco Xavier
+	 Domain: null
+Null domain
+4---------------------------------------------------
+-Id:2315 Name:Faculdade São Francisco Xavier
+&	 Domain:  	www.fsfx.com.br/faculdade
+$Clean domain: fsfx.com.br/faculdade
++	 Pure domain: 	FAIL fsfx.com.br/faculdade
+/	 www.:        	FAIL www.fsfx.com.br/faculdade
+.	 https://	PASS https://fsfx.com.br/faculdade
+6	 https://www.	PASS https://www.fsfx.com.br/faculdade
+,	 http://	PASS http://fsfx.com.br/faculdade
+4	 http://www.	PASS http://www.fsfx.com.br/faculdade
+4---------------------------------------------------
+4---------------------------------------------------
+,Id:2316 Name: Faculdades Doctum de Ipatinga
+	 Domain: www.doctum.edu.br
+Clean domain: doctum.edu.br
+#	 Pure domain: 	FAIL doctum.edu.br
+'	 www.:        	FAIL www.doctum.edu.br
+&	 https://	PASS https://doctum.edu.br
+.	 https://www.	PASS https://www.doctum.edu.br
+$	 http://	PASS http://doctum.edu.br
+,	 http://www.	PASS http://www.doctum.edu.br
+4---------------------------------------------------
+4---------------------------------------------------
+=Id:2317 Name:Univaco - Uniao Educacional do Vale do Aco S.a.
+	 Domain: null
+Null domain
+4---------------------------------------------------
+8Id:2318 Name:Instituto Metropolitano de Ensino Superior
+	 Domain: www.univaco.edu.br
+Clean domain: univaco.edu.br
+$	 Pure domain: 	FAIL univaco.edu.br
+(	 www.:        	FAIL www.univaco.edu.br
+'	 https://	PASS https://univaco.edu.br
+/	 https://www.	PASS https://www.univaco.edu.br
+%	 http://	PASS http://univaco.edu.br
+-	 http://www.	PASS http://www.univaco.edu.br
+4---------------------------------------------------
+4---------------------------------------------------
+@Id:2319 Name:Fundacao Comunitaria de Ensino Superior de Itabira
+	 Domain: null
+Null domain
+4---------------------------------------------------
+FId:2320 Name:Faculdade de Desenvolvimento Das Ciências e Humanidades
+	 Domain: www.funcesi.br
+Clean domain: funcesi.br
+ 	 Pure domain: 	FAIL funcesi.br
+$	 www.:        	FAIL www.funcesi.br
+#	 https://	PASS https://funcesi.br
++	 https://www.	PASS https://www.funcesi.br
+!	 http://	PASS http://funcesi.br
+)	 http://www.	PASS http://www.funcesi.br
+4---------------------------------------------------
+4---------------------------------------------------
+*Id:2321 Name:Faculdade Pitágoras Itabira
+(	 Domain: www.faculdadepitagoras.com.br
+(Clean domain: faculdadepitagoras.com.br
+/	 Pure domain: 	FAIL faculdadepitagoras.com.br
+3	 www.:        	FAIL www.faculdadepitagoras.com.br
+2	 https://	FAIL https://faculdadepitagoras.com.br
+:	 https://www.	PASS https://www.faculdadepitagoras.com.br
+0	 http://	PASS http://faculdadepitagoras.com.br
+8	 http://www.	PASS http://www.faculdadepitagoras.com.br
+4---------------------------------------------------
+4---------------------------------------------------
+&Id:2322 Name:Faculdade Una de Itabira
+	 Domain: www.una.br
+Clean domain: una.br
+	 Pure domain: 	FAIL una.br
+ 	 www.:        	FAIL www.una.br
+	 https://	FAIL https://una.br
+'	 https://www.	FAIL https://www.una.br
+	 http://	FAIL http://una.br
+%	 http://www.	FAIL http://www.una.br
+4---------------------------------------------------
+4---------------------------------------------------
+EId:2323 Name:Associacao de Ensino Superior Dos Inconfidentes - Asesi
+	 Domain: null
+Null domain
+4---------------------------------------------------
+)Id:2324 Name:Faculdade Alis de Itabirito
+	 Domain: 
+Null domain
+4---------------------------------------------------
+7Id:2325 Name:Faculdade de Administração de Itabirito
+	 Domain: 
+Null domain
+4---------------------------------------------------
+?Id:2326 Name:Faculdade Presidente Antônio Carlos de Itabirito
+"	 Domain: WWW.ITABIRITO.UNIPAC.BR
+&Clean domain: WWW.ITABIRITO.UNIPAC.BR
+-	 Pure domain: 	FAIL WWW.ITABIRITO.UNIPAC.BR
+1	 www.:        	FAIL www.WWW.ITABIRITO.UNIPAC.BR
+0	 https://	FAIL https://WWW.ITABIRITO.UNIPAC.BR
+8	 https://www.	FAIL https://www.WWW.ITABIRITO.UNIPAC.BR
+.	 http://	FAIL http://WWW.ITABIRITO.UNIPAC.BR
+6	 http://www.	FAIL http://www.WWW.ITABIRITO.UNIPAC.BR
+4---------------------------------------------------
+4---------------------------------------------------
+6Id:2327 Name:Fundacao de Ensino e Pesquisa de Itajuba
+	 Domain: null
+Null domain
+4---------------------------------------------------
+/Id:2328 Name:Centro Universitário de Itajubá
+	 Domain: www.fepi.br
+Clean domain: fepi.br
+	 Pure domain: 	FAIL fepi.br
+!	 www.:        	FAIL www.fepi.br
+ 	 https://	PASS https://fepi.br
+(	 https://www.	PASS https://www.fepi.br
+	 http://	PASS http://fepi.br
+&	 http://www.	PASS http://www.fepi.br
+4---------------------------------------------------
+4---------------------------------------------------
+(Id:2329 Name:Centro Regional de Cultura
+	 Domain: null
+Null domain
