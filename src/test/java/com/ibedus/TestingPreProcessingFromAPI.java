@@ -15,7 +15,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+// Teste Eduardo 04/01/2022
 public class TestingPreProcessingFromAPI {
 
     //private static final String SERVICO = new String("https://api.testeib.com.br/api"); //endereço
